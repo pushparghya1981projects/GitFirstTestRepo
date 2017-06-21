@@ -1,5 +1,0 @@
-I like Sam and I like ham.This is my first commit.
-Added a second line to this file.
-
-
-Added some more information to first file.
