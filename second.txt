@@ -1,1 +1,2 @@
 Second text file that we are making.
+Changes made to second file.
