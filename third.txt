@@ -1,2 +1,0 @@
-This is third file that we are making.
-Changes made in third file.
